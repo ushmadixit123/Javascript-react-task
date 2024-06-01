@@ -1,0 +1,20 @@
+.productImage{
+    width: 100px;
+    height: 100px;
+}
+/* .card{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   
+   
+} */
+.cardElements{
+    width: 300px;
+    height: 500px; 
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+    float: left;
+    margin: 20px;
+}
